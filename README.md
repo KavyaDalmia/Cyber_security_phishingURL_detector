@@ -45,6 +45,7 @@ To use PhishDetect, simply clone the repository and install the needed dependenc
 ![Alt Text](safe_url_result.png)
 
 <h2>here's a phishing url I received and tested with my app: </h2>
+
 ![Alt Text](phishing_message.png)
 ![Alt Text](phishing_url_entered.png)
 ![Alt Text](phishing_url_result.png)
