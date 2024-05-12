@@ -105,7 +105,6 @@ pandas==2.2.1
 pandas-datareader==0.10.0
 pandas_market_calendars==4.4.0
 parso==0.8.4
-passage-identity==2.3.2
 passlib==1.7.4
 peewee==3.17.3
 pillow==10.3.0
