@@ -1,6 +1,6 @@
 <h2>PhishDetect: Phishing URL Detection with Machine Learning</h2>
 
-PhishDetect is an open-source cybersecurity project aimed at detecting phishing URLs using cutting-edge machine learning techniques. Phishing attacks continue to pose a significant threat to individuals and organizations worldwide, making it crucial to have effective tools for identifying and mitigating these risks. PhishDetect provides a robust solution by leveraging machine learning algorithms to accurately differentiate between malicious and legitimate URLs.
+PhishDetect is an open-source cybersecurity project aimed at detecting phishing URLs using machine learning techniques. Phishing attacks continue to pose a significant threat to individuals and organizations worldwide, making it crucial to have effective tools for identifying and mitigating these risks. PhishDetect provides a robust solution by leveraging machine learning algorithms to accurately differentiate between malicious and legitimate URLs.
 
 <h2>Features</h2>
 
