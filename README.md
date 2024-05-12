@@ -13,7 +13,8 @@ PhishDetect employs a comprehensive machine learning pipeline to detect phishing
 - Feature Engineering: Extract relevant features from URLs, including IP address presence, URL length, domain age, URL shortening usage, web traffic analysis, iframe detection, status bar manipulation, and right-click disable detection.
 
 - Model Training: Train machine learning models using various algorithms, such as KNeighbors, DecisionTree, RandomForest, NeuralNetwork, and XGBoost, and select the best-performing model (Neural networks) based on evaluation metrics.
-<h3>image </h3>
+![Alt Text](phishing_url_entered.png)
+
 
 - Model Evaluation: Assess model performance through cross-validation and testing on unseen data to ensure reliable phishing detection.
 
