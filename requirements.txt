@@ -170,7 +170,7 @@ transformers==4.40.1
 typing_extensions==4.11.0
 tzdata==2024.1
 tzlocal==5.2
-urllib3==2.2.1
+urllib3
 uuid==1.30
 wcwidth==0.2.13
 webencodings==0.5.1
