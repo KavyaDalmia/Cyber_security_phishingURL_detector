@@ -110,7 +110,7 @@ peewee==3.17.3
 pillow==10.3.0
 plotly==5.22.0
 pluggy==1.5.0
-polygon-api-client==1.13.7
+polygon-api-client
 prompt-toolkit==3.0.43
 protobuf==4.25.3
 psycopg2-binary==2.9.9
@@ -170,7 +170,7 @@ transformers==4.40.1
 typing_extensions==4.11.0
 tzdata==2024.1
 tzlocal==5.2
-urllib3
+urllib3==2.2.1
 uuid==1.30
 wcwidth==0.2.13
 webencodings==0.5.1
